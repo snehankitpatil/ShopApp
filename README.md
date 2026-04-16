@@ -26,4 +26,3 @@ npx expo start
 ![Orders](assets/screenshots/order.png)
 ![Profile](assets/screenshots/profile.png)
 ![Wishlist](assets/screenshots/wishlish.png)
-=======
