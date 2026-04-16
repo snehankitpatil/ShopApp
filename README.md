@@ -1,4 +1,3 @@
-# ShopApp 🛍️
 
 A mobile e-commerce application built using React Native and Expo.
 
@@ -27,3 +26,4 @@ npx expo start
 ![Orders](assets/screenshots/order.png)
 ![Profile](assets/screenshots/profile.png)
 ![Wishlist](assets/screenshots/wishlish.png)
+=======
